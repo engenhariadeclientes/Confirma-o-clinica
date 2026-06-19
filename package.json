@@ -1,0 +1,13 @@
+{
+  "name": "confirmacao-clinica",
+  "version": "1.0.0",
+  "description": "Job de confirmação de agendamentos — Stilo Dental",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
